@@ -1,0 +1,37 @@
+.phone-input {
+    width:100% !important;
+    float:none !important;
+}
+
+.phone-input label {
+    display:inline !important;
+}
+
+#phoneprefix {
+    display:inline !important;
+    height: 25px !important;
+}
+
+#phone_numb {
+    float: none;
+    display: inline !important;
+    width: auto !important;
+    height: 28px !important;
+    margin: 0 !important;
+    padding: 0 5px;
+}
+
+.phone-input>input[type=number]::-webkit-inner-spin-button,
+.phone-input>input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.woocommerce .checkout select {
+    padding: 0 !important;
+}
+
+.payment_method_smspay img {
+    max-height: 50px;
+    width: auto;
+}

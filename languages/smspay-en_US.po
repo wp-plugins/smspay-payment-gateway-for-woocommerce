@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SMSpay Payment Gateway for WooCommerce\n"
+"POT-Creation-Date: 2015-06-20 00:12+0200\n"
+"PO-Revision-Date: 2015-06-20 00:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: SMSpay.php:37 SMSpay.php:172 SMSpay.php:199
+msgid "SMSpay"
+msgstr ""
+
+#: SMSpay.php:38
+msgid "Allows payments by SMSpay."
+msgstr ""
+
+#: SMSpay.php:74
+msgid "SMSpay: Logged in."
+msgstr "SMSpay: Logged in."
+
+#: SMSpay.php:76
+msgid "SMSpay: Login failed."
+msgstr ""
+
+#: SMSpay.php:147
+#, php-format
+msgid ""
+"SMSpay is enabled and the <a href=\"%s\">force SSL option</a> is disabled; "
+"your checkout is not secure! Please enable SSL and ensure your server has a "
+"valid SSL certificate."
+msgstr ""
+
+#: SMSpay.php:162
+msgid "Enable/Disable"
+msgstr ""
+
+#: SMSpay.php:163
+msgid "Enable SMSpay"
+msgstr ""
+
+#: SMSpay.php:169
+msgid "Title"
+msgstr ""
+
+#: SMSpay.php:171
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: SMSpay.php:175
+msgid "Description"
+msgstr ""
+
+#: SMSpay.php:177
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: SMSpay.php:181
+msgid "Username"
+msgstr ""
+
+#: SMSpay.php:183
+msgid "This is the API username provided by SMSpay."
+msgstr ""
+
+#: SMSpay.php:187
+msgid "Password"
+msgstr ""
+
+#: SMSpay.php:189
+msgid "This is the API password provided by SMSpay."
+msgstr ""
+
+#: SMSpay.php:200
+msgid ""
+"SMSpay is simple and powerful. <a href=\"https://\admin.smspay.io/register">Click here to "
+"get an account</a>."
+msgstr ""
+
+#: SMSpay.php:214
+msgid "Phone"
+msgstr ""
+
+#: SMSpay.php:230
+msgid "SMSpay phone number not valid."
+msgstr ""
+
+#: SMSpay.php:287
+msgid "The shop currency "
+msgstr ""
+
+#: SMSpay.php:287
+msgid ""
+" is not supported by SMSpay. The only currencies accepted are 'NOK', 'SEK', "
+"'DKK', 'EUR', 'USD' and 'GBP' "
+msgstr ""
+
+#: SMSpay.php:296 SMSpay.php:332
+msgid "SmsPay could not process your payment. Please try again later!"
+msgstr ""
+
+#: SMSpay.php:297 SMSpay.php:333
+msgid "Error. Could not logg in to SMSpay."
+msgstr ""
+
+#: SMSpay.php:341
+msgid "The order seems to be invalid. Please inform the site administrator."
+msgstr ""
+
+#: SMSpay.php:342
+msgid "Order error. Please check order for any error."
+msgstr ""
+
+#: SMSpay.php:351
+msgid "Payment was created with the reference id:"
+msgstr ""
+
+#: SMSpay.php:356 SMSpay.php:407
+msgid "Waiting customer confirmation/registration"
+msgstr ""
+
+#: SMSpay.php:361 SMSpay.php:412
+msgid "Processing payment"
+msgstr ""
+
+#: SMSpay.php:365
+msgid "Payment complete"
+msgstr ""
+
+#: SMSpay.php:366 SMSpay.php:417
+msgid "Payment complete!"
+msgstr ""
+
+#: SMSpay.php:371 SMSpay.php:372
+msgid "Payment cancelled by cutomer or SmsPay"
+msgstr ""
+
+#: SMSpay.php:404
+msgid "Payment was created with the reference id:"
+msgstr ""
+
+#: SMSpay.php:408
+msgid ""
+"Thank you for shopping with us. Right now your payment is waiting for your "
+"confirmation or registration."
+msgstr ""
+
+#: SMSpay.php:413
+msgid "Your payment is being processed;"
+msgstr ""
+
+#: SMSpay.php:419
+msgid ""
+"Thank you for shopping with us. Your account has been charged and your "
+"transaction is successful. We will be shipping your order to you soon."
+msgstr ""
+
+#: SMSpay.php:425
+msgid "SMSpay payment successful<br/>Unnique Id from PayU: "
+msgstr ""
+
+#: SMSpay.php:429
+msgid "Payment cancelled by customer or SMSpay "
+msgstr ""
+
+#: SMSpay.php:430
+msgid "Payment has been cancelled."
+msgstr ""
+
+#: SMSpay.php:435
+msgid ""
+"Error. The order has been completed before confirmation or data does not "
+"correspond to payment!"
+msgstr ""
+
+#: SMSpay.php:456
+msgid "Thank you for your order."
+msgstr ""
